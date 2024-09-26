@@ -1,6 +1,3 @@
-a = 'I was'
-b = 'born'
-c = 'this way'
 a = input()
 b = input()
 c = input()

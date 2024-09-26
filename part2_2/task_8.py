@@ -1,6 +1,3 @@
-a = "Hello"
-b = "it's"
-c = "me"
 a = input()
 b = input()
 c = input()
