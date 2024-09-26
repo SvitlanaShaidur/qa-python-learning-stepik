@@ -1,0 +1,9 @@
+a = '*'
+b = 'one'
+c = 'two'
+d = 'three'
+a = input()
+b = input()
+c = input()
+d = input()
+print(b, c, d, sep=a )
