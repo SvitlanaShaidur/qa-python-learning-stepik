@@ -1,1 +1,2 @@
-1st
+name = input()
+print("Hello," , name )
