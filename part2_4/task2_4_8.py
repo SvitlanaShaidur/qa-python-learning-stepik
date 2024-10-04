@@ -1,7 +1,4 @@
-a1 = int(input()) # Перший член прогресії
-d = int(input()) # Різниця прогресії
-n = int(input()) # Номер члена прогресії
-
+a1, d, n = int(input()), int(input()), int(input())
 # Обчислення члена прогресії
-an = a1 + d * (n - 1)
-print(an)
+# an = a1 + d * (n - 1)
+print(a1 + d * (n - 1))
