@@ -1,6 +1,6 @@
 # Напишите программу, которая определяет, являются ли три заданных числа (в указанном порядке) последовательными членами
-d1, d2, d3 = int(input()), int(input()),int(input())
-if (d2 - d1) + d2 == d3:
+num1, num2, num3 = int(input()), int(input()),int(input())
+if (num2 - num1) + num2 == num3:
     print('YES')
 else:
     print('NO')
