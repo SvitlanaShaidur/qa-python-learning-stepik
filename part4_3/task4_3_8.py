@@ -4,21 +4,13 @@ num = int(input())
 if 36 >= num >= 0:
     if num == 0:
         print("green")
-    elif num % 2 == 0 and (1 <= num <= 10):
+    elif num % 2 == 0 and (1 <= num <= 10 or 19 <= num <= 28):
         print("black")
-    elif num % 2 != 0 and (1 <= num <= 10):
+    elif num % 2 != 0 and (1 <= num <= 10 or 19 <= num <= 28):
         print("red")
-    elif num % 2 == 0 and (11 <= num <= 18):
+    elif num % 2 == 0 and (11 <= num <= 18 or 29 <= num <= 36):
         print("red")
-    elif num % 2 != 0 and (11 <= num <= 18):
-        print("black")
-    elif num % 2 == 0 and (19 <= num <= 28):
-        print("black")
-    elif num % 2 != 0 and (19 <= num <= 28):
-        print("red")
-    elif num % 2 == 0 and (29 <= num <= 36):
-        print("red")
-    elif num % 2 != 0 and (29 <= num <= 36):
+    elif num % 2 != 0 and (11 <= num <= 18 or 29 <= num <= 36):
         print("black")
 else:
-    print("input error")
+        print("input error")
