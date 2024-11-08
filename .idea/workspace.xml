@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="408cef1d-8e6e-4f49-b264-18b824294ce0" name="Changes" comment="All tasks 6_1 were done">
+      <change afterPath="$PROJECT_DIR$/.idea/MyPythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa-python-learning-stepik/part2_2/task_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa-python-learning-stepik/part6_1/task6_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/qa-python-learning-stepik/part6_1/task6_1_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/qa-python-learning-stepik" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/qa-python-learning-stepik" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mEpIVoGZFuABN004Iu7HWbxXVZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.task2_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_4_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task2_5_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_1_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_2_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task4_3_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task6_1_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;task6__1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/s.shaidur/PyCharm/MyPythonProject/qa-python-learning-stepik/part2_2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/qa-python-learning-stepik/part2_2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408cef1d-8e6e-4f49-b264-18b824294ce0" name="Changes" comment="" />
+      <created>1726651510487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726651510487</updated>
+    </task>
+    <task id="LOCAL-00001" summary="completed tasks 5-8">
+      <option name="closed" value="true" />
+      <created>1726848568801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726848568801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tasks 2_3 completed">
+      <option name="closed" value="true" />
+      <created>1727363813443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727363813443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tasks 7 8 fixed">
+      <option name="closed" value="true" />
+      <created>1727369800912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727369800912</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 2_3_3 was fixed">
+      <option name="closed" value="true" />
+      <created>1727370237351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727370237351</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 2_4 (tasks 1-9) was full completed">
+      <option name="closed" value="true" />
+      <created>1727437409877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727437409877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1728052814983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728052814983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="# was removed">
+      <option name="closed" value="true" />
+      <created>1728053450354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728053450354</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Description of this task was added&#10;Variables were excluded">
+      <option name="closed" value="true" />
+      <created>1728661708719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661708719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="All tasks from 4_1 are done">
+      <option name="closed" value="true" />
+      <created>1729174348234</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174348235</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changes are done">
+      <option name="closed" value="true" />
+      <created>1729176789939</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729176789939</updated>
+    </task>
+    <task id="LOCAL-00011" summary="All tasks 4_2 were done">
+      <option name="closed" value="true" />
+      <created>1729612115940</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729612115940</updated>
+    </task>
+    <task id="LOCAL-00012" summary="All tasks 4_3 were done">
+      <option name="closed" value="true" />
+      <created>1730282987750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730282987750</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixes for tasks 4_3_8/9 were done">
+      <option name="closed" value="true" />
+      <created>1730308303833</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730308303833</updated>
+    </task>
+    <task id="LOCAL-00014" summary="All tasks 6_1 were done">
+      <option name="closed" value="true" />
+      <created>1730673804138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730673804138</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed tasks 5-8" />
+    <MESSAGE value="tasks 2_3 completed" />
+    <MESSAGE value="tasks 7 8 fixed" />
+    <MESSAGE value="task 2_3_3 was fixed" />
+    <MESSAGE value="task 2_4 (tasks 1-9) was full completed" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="# was removed" />
+    <MESSAGE value="Description of this task was added&#10;Variables were excluded" />
+    <MESSAGE value="All tasks from 4_1 are done" />
+    <MESSAGE value="Changes are done" />
+    <MESSAGE value="All tasks 4_2 were done" />
+    <MESSAGE value="All tasks 4_3 were done" />
+    <MESSAGE value="Fixes for tasks 4_3_8/9 were done" />
+    <MESSAGE value="All tasks 6_1 were done" />
+    <option name="LAST_COMMIT_MESSAGE" value="All tasks 6_1 were done" />
+  </component>
+</project>
