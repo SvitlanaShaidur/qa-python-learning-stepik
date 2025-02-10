@@ -8,7 +8,7 @@ soglas = 0
 for i in range(len(s)):
     if s[i] in 'ауоыиэяюе':
         glas += 1
-    if s[i] in 'бвгджзйклмнпрстфхцчшщ':
+    elif s[i] in 'бвгджзйклмнпрстфхцчшщ':
         soglas += 1
 print("Количество гласных букв равно", glas)
 print("Количество согласных букв равно", soglas)

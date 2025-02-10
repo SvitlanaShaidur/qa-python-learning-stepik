@@ -5,10 +5,10 @@
 s = input()
 plus = 0
 star = 0
-for i in range(len(s)):
-    if s[i] in '+':
+for i in s:
+    if i == '+':
         plus += 1
-    if s[i] in '*':
+    elif i == '*':
         star += 1
 print("Символ + встречается", plus, "раз")
 print("Символ * встречается", star, "раз")
