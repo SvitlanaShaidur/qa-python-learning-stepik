@@ -14,8 +14,8 @@ if 9 <= len(number_auto) <= 10:
     underscore = number_auto[6]
     if digits.isdigit() and underscore == '_':
         flag = 'YES'
-    for x in symbols:
-        if x not in letters:
+    for var in symbols:
+        if var not in letters:
             flag = 'NO'
             break
 print(flag)
