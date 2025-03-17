@@ -8,7 +8,7 @@
 number_auto = input()
 flag = 'NO'
 letters = "АВЕКМНОРСТУХ"
-if 9 <= len(number_auto) <= 10:
+if len(number_auto) in (9, 10):
     symbols = number_auto[0] + number_auto[4:6]
     digits = number_auto[1:4] + number_auto[7:]
     underscore = number_auto[6]
