@@ -15,8 +15,8 @@
 
 message = input()
 total = 0
-for c in message:
-    total += ord(c)
-cost = total * 3
+for char in message:
+    total += ord(char) * 3
+
 print("Текст сообщения: '{}'".format(message))
-print("Стоимость сообщения: {}🐝".format(cost))
+print("Стоимость сообщения: {}🐝".format(total))

@@ -30,14 +30,15 @@
 #     print(word4)
 
 # Другий варіант:
+#  words = [input() for _ in range(4)]
 
-words = [input() for _ in range(4)]
-max_weight = 0  # початкове значення ваги
-heaviest = ""   # змінна для збереження найважчого слова
-for word in words: # Проходимось по кожному слову
+max_weight = 0
+heaviest = ""
+for i in range(4):
     weight = 0
-    for ch in word:  # Рахуємо "тяжкість" слова як суму Unicode-кодів усіх його символів
-        weight += ord(ch)
+    word = input()
+    for i in word:
+        weight += ord(i)
     if weight > max_weight:
         max_weight = weight
         heaviest = word

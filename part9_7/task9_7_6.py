@@ -15,15 +15,15 @@ message = input()
 eng_letters = 'eyopaxcETOPAHXCBM'
 rus_letters = 'еуорахсЕТОРАНХСВМ'
 old_message = message
-old_cost = sum(ord(c) for c in old_message) * 3
+old_cost = sum(ord(char) for char in old_message) * 3
 new_message = ''
-for c in message:
-    if c in eng_letters:
-        index = eng_letters.find(c)
+for char in message:
+    if char in eng_letters:
+        index = eng_letters.find(char)
         new_message += rus_letters[index]
     else:
-        new_message += c
-new_cost = sum(ord(c) for c in new_message) * 3
+        new_message += char
+new_cost = sum(ord(char) for char in new_message) * 3
 
 print(f'Старая стоимость: {old_cost}🐝')
 print(f'Новая стоимость: {new_cost}🐝')

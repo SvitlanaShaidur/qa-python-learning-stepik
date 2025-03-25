@@ -8,5 +8,5 @@
 # Программа должна вывести кодовые значения символов строки разделенных одним символом пробела.
 
 string = input()
-for c in string:
-   print(ord(c), end= ' ')
+for char in string:
+   print(ord(char), end= ' ')

@@ -8,5 +8,5 @@
 letter = input()
 if letter == chr(1071):
     print('Дальше букв нет')
-elif letter < chr(1071):
+else:
     print(chr(ord(letter) + 1))
