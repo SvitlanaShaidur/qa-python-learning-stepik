@@ -11,12 +11,14 @@ def is_valid_password(password):
     parts = password.split(':')
     if len(parts) != 3:
         return False
-    a, b, c = parts[0], parts[1], parts[2]
-    if not (a.isdigit() and b.isdigit() and c.isdigit()):
+
+    if not (parts[0].isdigit() and parts[1].isdigit() and parts[2].isdigit()):
         return False
-    a = int(a)
-    b = int(b)
-    c = int(c)
+
+    a = int(parts[0])
+    b = int(parts[1])
+    c = int(parts[2])
+
     return is_palindrome(a) and is_prime(b) and is_even(c)
 
 def is_prime(num):
